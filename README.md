@@ -8,9 +8,13 @@ Algumas das tecnologias que utilizo ou utilizei abaixo:
 </div>
 
 <div>
- <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img  width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-          
+ <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img  width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />      
 </div>
+
+<br>
+
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=itslevictor&show_icons=true&theme=vision-friendly-dark)
+
 <div>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itslevictor)](https://github.com/anuraghazra/github-readme-stats)
+   
 </div>
