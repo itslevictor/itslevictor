@@ -12,7 +12,7 @@ Algumas das tecnologias que conheço abaixo:
 </div>
 
 <div>
- <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img  width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />      
+ <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img  width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />      
 </div>
 
 <br>
@@ -24,17 +24,39 @@ Algumas das tecnologias que conheço abaixo:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&layout=demo" />
 </a>
 
-<br>
 <div>
-    
-</div>
 
-<div>
- Outros contatos:
  <br>
- 
- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itslevictor)
- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itslevictor)
+<div class="row">
+   <div class="column">
+     <a href="https://github.com/itslevictor/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=itslevictor&theme=onedark" />
+</a>
  </div>
+   <div class="column">
+    <a href="https://facebook.com/itslevictor">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+ <a href="https://wa.me/5585984132451">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   </a>
+    <a href="https://linkedin.com/in/itslevictor">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+ <a href="https://instagram.com/itslevictor">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+ <a href="mailto:itslevictor@gmail.com?subject=Github&body=Vi seu perfil no Git Hub.">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+   <a href="mailto:itslevictor@protonmail.com?subject=Github&body=Vi seu perfil no Git Hub.">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+    </div>
+</a>
+
+</div>
+ 
+<br>
+</div>
  
  [![Victor github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itslevictor&bg_color=000000&color=ffffff&line=ffffff&point=aeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
