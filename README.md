@@ -29,7 +29,7 @@ Algumas das tecnologias que conheço abaixo:
  <br>
 <div class="row">
    <div class="column">
-     <a href="https://github.com/itslevictor/github-profile-trophy">
+     <a href="https://github.com/itslevictor">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=itslevictor&theme=onedark" />
 </a>
  </div>
