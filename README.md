@@ -27,3 +27,5 @@ Algumas das tecnologias que conheço abaixo:
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itslevictor)
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itslevictor)
  </div>
+ 
+ [![Victor github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itslevictor&bg_color=000000&color=ffffff&line=ffffff&point=aeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
