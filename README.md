@@ -2,7 +2,7 @@
 
 ### Olá sou o Victor 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=17&duration=3500&pause=700&color=F7B158&width=435&lines=Entusiasta+no+desenvolvimento+de+solucoes;Programacao,+Design+e+Administracao.&background=000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=17&duration=3500&pause=700&vCenter=true&center=true&color=F7B158&width=435&lines=Entusiasta+no+desenvolvimento+de+solucoes;Programacao,+Design+e+Administracao.&background=000000)](https://git.io/typing-svg)
  
 Algumas das tecnologias que conheço abaixo:
 
