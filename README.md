@@ -1,5 +1,5 @@
 # itslevictor
-## ...olá sou o Victor 👋
+### ...olá sou o Victor 👋
 Entusiasta no desenvolvimento de soluções que envolvam programação, tecnologia e design.
 <br>
 Algumas das tecnologias que conheço abaixo:
