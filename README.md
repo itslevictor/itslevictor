@@ -1,6 +1,8 @@
 # itslevictor
 ### ...olá sou o Victor 👋
-Entusiasta no desenvolvimento de soluções que envolvam programação, tecnologia e design.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7B158&width=435&lines=Entusiasta+no+desenvolvimento+de+solu%C3%A7%C3%B5es%2C+Programa%C3%A7%C3%A3o%2C+Design+e+Administra%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+
 <br>
 Algumas das tecnologias que conheço abaixo:
 <div></div>
