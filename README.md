@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=47&duration=2000&pause=100&color=F7B74D&background=282828&center=true&vCenter=true&repeat=false&width=486&height=98&lines=%C3%89+o+Victor;%F0%9F%92%A1itsleVictor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=47&duration=2000&pause=100&color=F7B74D&background=282828&center=true&vCenter=true&repeat=true&width=486&height=98&lines=%C3%89+o+Victor;%F0%9F%92%A1itsleVictor)](https://git.io/typing-svg)
 
 ### Olá sou o Victor 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=17&duration=3500&pause=700&color=F7B158&width=435&lines=Entusiasta+no+desenvolvimento+de+solucoes;Programacao,+Design+e+Administracao.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=17&duration=3500&pause=700&color=F7B158&width=435&lines=Entusiasta+no+desenvolvimento+de+solucoes;Programacao,+Design+e+Administracao.&background=282828)](https://git.io/typing-svg)
  
 Algumas das tecnologias que conheço abaixo:
 
