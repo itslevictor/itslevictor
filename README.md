@@ -21,7 +21,7 @@ Algumas das tecnologias que conheço abaixo:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itslevictor&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/itslevictor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&layout=demo" />
 </a>
 
 <br>
