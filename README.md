@@ -16,23 +16,39 @@ Algumas das tecnologias que conheço abaixo:
  <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img  width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img width=50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />      
 </div>
 
-<br>
 
-<a href="https://github.com/itslevictor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itslevictor&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
-</a>
-<a href="https://github.com/itslevictor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&layout=demo" />
-</a>
+## Projetos:
+<div align="left">
+<table height="270">
+<tr>
+    <tr>
+      <td>
+      <a href="https://github.com/itslevictor/Glub" target="_blank">
+        <img align="left" src= "https://github-readme-stats.vercel.app/api/pin/?username=itslevictor&repo=Glub&show_icons=true&theme=vision-friendly-dark&include_all_commits=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/itslevictor/POPEYE_PG_92" target="_blank">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=itslevictor&repo=POPEYE_PG_92&show_icons=true&theme=vision-friendly-dark&include_all_commits=true">
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/itslevictor/EU2022" target="_blank">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=itslevictor&repo=EU2022&show_icons=true&theme=vision-friendly-dark&include_all_commits=true">
+    </a>
+      </td>
+    </tr>
+    <tr>
+  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" width="250px" />
+    </tr>
+  </table>
 
-<div>
-
- <br>
 <div class="row">
    <div class="column">
-     <a href="https://github.com/itslevictor">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=itslevictor&theme=onedark" />
-</a>
  </div>
    <div class="column">
     <a href="https://facebook.com/itslevictor">
@@ -56,8 +72,27 @@ Algumas das tecnologias que conheço abaixo:
 </a>
 
 </div>
- 
+  
+ </div>
 <br>
+
+<a href="https://github.com/itslevictor/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itslevictor&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/itslevictor/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&layout=demo" />
+</a>
+
+<br>
+<div>
+<br>
+<a href="https://github.com/itslevictor">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=itslevictor&theme=onedark" />
+</a>
 </div>
  
- [![Victor github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itslevictor&bg_color=000000&color=ffffff&line=ffffff&point=aeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Victor github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itslevictor&bg_color=000000&color=ffffff&line=ffffff&point=aeff00&area=true&hide_border=true)](https://github.com/itslevictor)
+ 
+ 
+ 
