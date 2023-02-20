@@ -18,6 +18,7 @@ Algumas das tecnologias que conheço abaixo:
 
 
 ## Projetos:
+
 <div align="left">
 <table height="270">
 <tr>
