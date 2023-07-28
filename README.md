@@ -82,7 +82,7 @@ Algumas das tecnologias que conheço abaixo:
 </a>
 
 <a href="https://github.com/itslevictor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&layout=demo" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itslevictor&hide_progress=true)
 </a>
 
 <br>
