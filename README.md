@@ -92,8 +92,6 @@ Algumas das tecnologias que conheço abaixo:
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=itslevictor&theme=onedark" />
 </a>
 </div>
- 
- [![Victor github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itslevictor&bg_color=000000&color=ffffff&line=ffffff&point=aeff00&area=true&hide_border=true)](https://github.com/itslevictor)
- 
- 
+
+ [![Victor github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itslevictor&bg_color=000000&color=ffffff&line=ffffff&point=aeff00&area=true&hide_border=true)](https://github.com/itslevictor/github-readme-activity-graph)
  
