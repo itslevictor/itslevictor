@@ -78,7 +78,7 @@ Algumas das tecnologias que conheço abaixo:
 <br>
 
 <a href="https://github.com/itslevictor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itslevictor&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itslevictor&show_icons=true" />
 </a>
 
 <a href="https://github.com/itslevictor/github-readme-stats">
