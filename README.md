@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=47&duration=3500&pause=1000&color=3eb50e&background=000000&center=true&vCenter=true&repeat=true&width=486&height=98&lines=%C3%89+o+Victor;%F0%9F%92%A1itsleVictor)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=47&duration=3500&pause=1000&color=3eb50e&background=000000&center=true&vCenter=true&repeat=true&width=486&height=98&lines=%C3%89+o+Victor;%F0%9F%92%A1itsleVictor)](https://git.io/typing-svg)
+Aqui é o "itslevictor" digitado com uma lampada
+-->
 
 ### Olá sou o Victor 👋
 
