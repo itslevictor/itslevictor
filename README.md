@@ -35,10 +35,13 @@
 <table>
   <tr>
     <td width="50%">
+      <a href="https://github.com/itslevictor/Desafio-Fullstack">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itslevictor&repo=Desafio-Fullstack&show_icons=true&theme=vision-friendly-dark"/>
+      </a><br>
       <a href="https://github.com/itslevictor/Glub">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itslevictor&repo=Glub&show_icons=true&theme=vision-friendly-dark" />
-      </a><br>
-      <a href="https://github.com/itslevictor/POPEYE_PG_92">
+      </a><br>      
+       <a href="https://github.com/itslevictor/POPEYE_PG_92">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itslevictor&repo=POPEYE_PG_92&show_icons=true&theme=vision-friendly-dark" />
       </a><br>
       <a href="https://github.com/itslevictor/EU2022">
